@@ -2,3 +2,32 @@ h1 {
     color: #27aedb;
     text-align: center;
 }
+
+.search-bar {
+    margin: 20px;
+    text-align: center;
+  }
+  
+  .search-bar input {
+    width: 65%;
+  }
+  
+  .beer-item img {
+    max-width: 24px;
+  }
+  
+  .beer-detail .details {
+    margin-top: 10px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+  }
+  
+  .list-group-item {
+    cursor: pointer;
+  }
+  
+  .list-group-item:hover {
+    background-color: #eee;
+  }
+  
